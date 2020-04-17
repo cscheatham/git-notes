@@ -1,1 +1,1 @@
-A git branch is a pointer to the latest commit of one version of a project. 
+A git branch is a pointer to the latest commit of one version of a project. Branches are useful for testing variations of your code. This is on the branch "master".
