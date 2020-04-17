@@ -1,0 +1,1 @@
+A git branch is a pointer to the latest commit of one version of a project. 
